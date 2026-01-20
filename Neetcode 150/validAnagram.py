@@ -1,15 +1,11 @@
 class Solution:
-    def search(self, nums: List[int], target: int) -> int:
-        l, r = 0, len(nums) - 1
+    def isAnagram(self, s: str, t: str) -> bool:
+        if len(s) != len(t):
+            return False
+        
+        countS, countT = {}, {}
 
-        while l <= r:
-            # (l + r) // 2 can lead to overflow
-            m = l + ((r - l) // 2)
-
-            if nums[m] > target:
-                r = m - 1
-            elif nums[m] < target:
-                l = m + 1
-            else:
-                return m
-        return -1
+        for i in range(len(s)):
+            countS[s[i]]=1 + countS.get(s[i],0)
+            countT[t[i]]=1 + countT.get(t[i],0)
+        return countS==countT
