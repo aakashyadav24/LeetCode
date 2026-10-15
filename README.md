@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aakashyadav24/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aakashyadav24/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aakashyadav24/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aakashyadav24/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aakashyadav24/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aakashyadav24/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aakashyadav24/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aakashyadav24/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aakashyadav24/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aakashyadav24/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aakashyadav24/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aakashyadav24/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -100,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/aakashyadav24/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aakashyadav24/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aakashyadav24/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
