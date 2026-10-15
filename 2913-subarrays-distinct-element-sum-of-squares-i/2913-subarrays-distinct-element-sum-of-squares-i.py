@@ -3,8 +3,8 @@ class Solution:
         n = len(nums)
         ans = 0
         for i in range(n):
+            unique = set()
             for j in range(i, n):
-                sub_arr = nums[i: j+1]
-                unique = set(sub_arr)
+                unique.add(nums[j])
                 ans += len(unique) ** 2
         return ans        
